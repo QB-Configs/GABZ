@@ -79,7 +79,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Lobby right
 table.insert(Config.DoorList, {
 	objHash = -96679321, -- gabz_mrpd_door_05
@@ -92,7 +91,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Garage entrance 1
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -106,7 +104,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Garage entrance 2
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -120,7 +117,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Garage roller door 1
 table.insert(Config.DoorList, {
 	objCoords = vector3(431.4119, -1000.772, 26.69661),
@@ -136,7 +132,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Garage roller door 2
 table.insert(Config.DoorList, {
 	objCoords = vector3(452.3005, -1000.772, 26.69661),
@@ -152,7 +147,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Back gate
 table.insert(Config.DoorList, {
 	objCoords = vector3(488.8948, -1017.212, 27.14935),
@@ -167,7 +161,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Back doors
 table.insert(Config.DoorList, {
 	maxDistance = 2,
@@ -189,7 +182,6 @@ table.insert(Config.DoorList, {
 		['offpolice'] = 0,
 	}
 })
-
 -- Mugshot
 table.insert(Config.DoorList, {
 	objHash = -1406685646, -- gabz_mrpd_door_04
@@ -202,7 +194,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Cell entrance 1
 table.insert(Config.DoorList, {
 	objCoords = vector3(476.6157, -1008.875, 26.48005),
@@ -222,7 +213,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Cell entrance 2
 table.insert(Config.DoorList, {
 	objCoords = vector3(481.0084, -1004.118, 26.48005),
@@ -242,7 +232,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Cell 1
 table.insert(Config.DoorList, {
 	objCoords = vector3(477.9126, -1012.189, 26.48005),
@@ -262,7 +251,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Cell 2
 table.insert(Config.DoorList, {
 	objCoords = vector3(480.9128, -1012.189, 26.48005),
@@ -282,7 +270,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Cell 3
 table.insert(Config.DoorList, {
 	objCoords = vector3(483.9127, -1012.189, 26.48005),
@@ -322,7 +309,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Cell 5
 table.insert(Config.DoorList, {
 	objCoords = vector3(484.1764, -1007.734, 26.48005),
@@ -342,7 +328,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Lineup
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -355,7 +340,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Observation i
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -368,7 +352,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Interrogation i
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -381,7 +364,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Observation ii
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -394,7 +376,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Interrogation ii
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -407,7 +388,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Evidence
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -420,7 +400,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Armoury 1
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -433,7 +412,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Armoury 2
 table.insert(Config.DoorList, {
 	fixText = true,
@@ -446,7 +424,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Shooting range
 table.insert(Config.DoorList, {
 	maxDistance = 2,
@@ -467,7 +444,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Rooftop
 table.insert(Config.DoorList, {
 	objCoords = vector3(464.3086, -984.5284, 43.77124),
@@ -484,7 +460,6 @@ table.insert(Config.DoorList, {
 		['leo'] = 0,
 	}
 })
-
 -- Mrpd bollards 1 - "gabz_mrpd_bollards1"
 table.insert(Config.DoorList, {
 	objHeading = 269.8766784668,
@@ -503,7 +478,6 @@ table.insert(Config.DoorList, {
 	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
 	-- autoLock = 1000
 })
-
 -- Mrpd bollards 2 - "gabz_mrpd_bollards2"
 table.insert(Config.DoorList, {
 	objHeading = 270.15423583984,
