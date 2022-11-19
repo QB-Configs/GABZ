@@ -62,22 +62,7 @@ Config.Shops = {
                 coords = vector4(-47.3, -1091.95, 26.66, 94.8),
                 defaultVehicle = 't20',
                 chosenVehicle = 't20'
-            }--[[
-            [6] = {
-                coords = vector4(-40.39, -1117.47, 26.36, 339.89),
-                defaultVehicle = 'bati',
-                chosenVehicle = 'bati'
-            },
-            [7] = {
-                coords = vector4(-47.59, -1118.16, 26.36, 336.72),
-                defaultVehicle = 'bati',
-                chosenVehicle = 'bati'
-            },
-            [8] = {
-                coords = vector4(-54.19, -1118.37, 26.37, 339.11),
-                defaultVehicle = 'bati',
-                chosenVehicle = 'bati'
-            }--]]
+            }
         },
     },
     ['luxury'] = {
