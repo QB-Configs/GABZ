@@ -1,6 +1,5 @@
 -- ## GABZ - MISSION ROW POLICE DEPARTMENT (MRPD)
 -- ## COORDINATES: 427.120, -979.559, 30.716
-
 -- Front doors
 table.insert(Config.DoorList, {
 	maxDistance = 2,
